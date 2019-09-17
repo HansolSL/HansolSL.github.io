@@ -1,1 +1,1 @@
-# HansolSL.github.io
+# StudyNotes.github.io
